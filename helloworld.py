@@ -1,6 +1,3 @@
-hello world
+print " hello world my name is yusuf"
 
-we have rectified the conflict!
-
-added some changes to the file
-
+print " whats yours?"
